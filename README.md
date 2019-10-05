@@ -15,3 +15,10 @@ Linki do zobaczenia:
 
 bj: Wydaje mi się, że niestety ten projekt odpada, bo jest za trudny.
 
+### Projekt KGHM
+
+Linki do zobaczenia:
+
+- ImageNet: http://www.image-net.org/
+
+- google: https://cloud.google.com/vision/
