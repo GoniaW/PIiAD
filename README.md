@@ -1,2 +1,2 @@
 # PIiAD
-Oficjalne repo projektowe
+Oficjalne repo projektowe.
