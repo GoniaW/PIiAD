@@ -22,3 +22,11 @@ Linki do zobaczenia:
 - ImageNet: http://www.image-net.org/
 
 - google: https://cloud.google.com/vision/
+
+### Projekt urzędu patentowego
+
+Linki do zobaczenia:
+
+- https://nofluffjobs.com/blog/przetwarzanie-plikow-pdf-z-wykorzystaniem-pythona-jak-zwiekszyc-wydajnosc-tego-procesu/
+
+mw: Wydaje mi się, że analizowanie pdf nie jest poza naszymi możliwościami + nie ma progu wstępu do 1 etapu
