@@ -3,6 +3,14 @@ Oficjalne repo projektowe.
 
 ## Dyskusja wstępna - wybór projektu
 
+### Możliwe pytania:
+**KGHM**:
+* : ile jest możliwych stanów drogi? (klas) Czy pierwszy etap faktycznie ogranicza się do określania stanu drogi na zdjęciu?
+**PDF**:
+* ile jest klas? w tym 4-tym zagnieżdżeniu MKP i czy faktycznie liczy się tylko ten czwarty poziom.
+**Senat**:
+* czy można korzystać z istniejących rozwiązań? (integrować je z tworzonym rozwiązaniem)
+
 
 ### Projekt "Rozpoznawanie głosu etc."
 
