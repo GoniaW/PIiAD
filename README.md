@@ -20,13 +20,18 @@ b. Pani Magdalena Maćkowiak, adres e-mail: bpko@senat.gov.pl
 
 ### Możliwe pytania:
 **KGHM**:
-* ile jest możliwych stanów drogi? (klas) Czy pierwszy etap faktycznie ogranicza się do określania stanu drogi na zdjęciu?
+* ile jest możliwych stanów drogi? (klas) 
+* Czy pierwszy etap faktycznie ogranicza się do określania stanu drogi na zdjęciu? tzn. chcą tylko silnik, a nie całą aplikację kierującą samochody w odpowiednie miejsca...
+* czy jest szansa na więcej danych?
 
 **PDF**:
 * ile jest klas? w tym 4-tym zagnieżdżeniu MKP i czy faktycznie liczy się tylko ten czwarty poziom.
+* jeżeli nasza aplikacja rozpozna typ zgłoszenia poprawnie do 3-ego zagnieżdżenia, ale pomyli się w 4-tym to czy dostajemy część punktów, czy traktowane jest to tak samo jakby pomylił się już w pierwszym podziale?
 
 **Senat**:
 * czy można korzystać z istniejących rozwiązań? (integrować je z tworzonym rozwiązaniem)
+* czy są gotowi płacić za serwis Skrybota (istniejącego rozwiązania)?
+
 
 
 ### Projekt "Rozpoznawanie głosu etc."
